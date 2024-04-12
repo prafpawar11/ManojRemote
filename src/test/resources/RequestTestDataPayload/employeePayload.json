@@ -1,0 +1,18 @@
+{
+	"createEmployee": {
+		"firstname": "Ajit",
+		"lastname": "Sathe",
+		"address": "Pune",
+		"emailId": "ajit@gmail.com",
+		"mobilenumber": "9090900",
+		"username": "ajit@gmail.com"
+	},
+	"updateEmployee": {
+		"firstname": "Amruta",
+		"lastname": "Thakare",
+		"address": "Mumbai",
+		"emailId": "amruta@gmail.com",
+		"mobilenumber": "8080809",
+		"username": "amruta@gmail.com"
+	}
+}
